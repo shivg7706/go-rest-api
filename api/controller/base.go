@@ -8,7 +8,7 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
-	"github.com/shivg7706/rest-api/models"
+	"github.com/shivg7706/rest-api/api/models"
 )
 
 type Server struct {
