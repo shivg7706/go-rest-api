@@ -1,6 +1,6 @@
 FROM golang:alpine as builder
 
-LABEL maintainer="Shivam Gupta <shivamgupta7706@gmail.com>"
+LABEL maintainer="Shivam Gupta <shivg7706@gmail.com>"
 
 RUN apk update && apk add --no-cache git
 
