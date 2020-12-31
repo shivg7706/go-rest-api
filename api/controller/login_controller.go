@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
+	"github.com/shivg7706/rest-api/api/auth"
 	"github.com/shivg7706/rest-api/api/models"
 	"github.com/shivg7706/rest-api/api/responses"
 	"github.com/shivg7706/rest-api/api/utils/formaterror"
